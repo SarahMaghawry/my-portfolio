@@ -4,21 +4,16 @@ class About extends Component {
     return (
       <div className="condiv">
         <h1 className="subtopic">About Me</h1>
-        <h4>Hey there,</h4>
-        <h1>I'm Abdul Wahid Naafi</h1>
-        <h3>
-          Full Stack Web <u>Developer</u> | UI/UX <u>Designer</u>
-        </h3>
+        <h1>Sarah Ibrahim</h1>
+        <h3>Full Stack Web Developer</h3>
         <br></br>
         <p>
-          I started my journey in the world of computers from an young age, now
-          I’m 20 years old, Pursuing my Software Engineering Degree in VIT
-          University Vellore. Web development is my center of interest, i always
-          love the idea of cross-platform development, 1-n one code base deploy
-          into almost any platform, which web technology like Javascript enables
-          me to do. I also like creating Interactive UI components for better UX
-          and share those desgin and codes to the world through Github, Codepen
-          and Instagram.
+          An Experienced Software Engineer with a demonstrated history of
+          working in the information technology and services industry. Skilled
+          in JavaScript, NodeJs, ReactJs, SQL and NoSQL databases, and certified
+          Uipath RPA developer. <br></br>Strong engineering professional with a
+          Bachelor's degree focused in Computer Engineering from Faculty of
+          Egineering Helwan University Cairo.
         </p>
       </div>
     );

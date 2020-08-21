@@ -6,7 +6,7 @@ class Contact extends Component {
       <div className="condiv">
         <h1 className="subtopic">Contact Me</h1>
         <h3>Email : saraibrahim1100@gmail.com</h3>
-        <h3>Mobile: Attached in my CV for privacy concern.</h3>
+        <h3>Mobile: Only Avaliable in my CV for privacy concern.</h3>
         <Social />
       </div>
     );
