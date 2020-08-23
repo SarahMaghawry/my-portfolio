@@ -13,7 +13,7 @@ class About extends Component {
           in JavaScript, NodeJs, ReactJs, SQL and NoSQL databases, and certified
           Uipath RPA developer. <br></br>Strong engineering professional with a
           Bachelor's degree focused in Computer Engineering from Faculty of
-          Egineering Helwan University Cairo.
+          Egineering Helwan University, Cairo.
         </p>
       </div>
     );

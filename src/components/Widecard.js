@@ -8,7 +8,7 @@ class Widecard extends Component {
           <img
             alt="projects"
             src={this.props.pic}
-            style={{ width: 600, height: 280 }}
+            style={{ width: 600, height: 290 }}
           ></img>
           <p className="secondtext">
             {this.props.description}

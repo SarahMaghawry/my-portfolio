@@ -10,7 +10,7 @@ class Skills extends Component {
         "Reactjs",
         "MySQL",
         "MongoDB",
-        "REST API",
+        "REST API - SOAP",
         "OOP - MVC - UML",
       ],
     };

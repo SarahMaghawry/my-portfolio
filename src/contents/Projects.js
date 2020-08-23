@@ -2,6 +2,9 @@ import React, { Component } from "react";
 import Widecard from "../components/Widecard";
 import project1 from "../assets/taskCoach.png";
 import project2 from "../assets/portfolio.png";
+import project3 from "../assets/RPA.png";
+import project4 from "../assets/JSFapp.png";
+import project5 from "../assets/BPM.png";
 
 class Projects extends Component {
   render() {
@@ -20,8 +23,31 @@ class Projects extends Component {
         <Widecard
           title="My Portfolio"
           pic={project2}
-          description="A portfolio that is powered by Reactjs components, icons and simple awesome CSS styling. "
+          description="A portfolio that is powered by Reactjs components, routes, icons and 
+          simple awesome CSS styling. "
           link="https://github.com/SarahMaghawry/my-portfolio"
+        />
+        <Widecard
+          title="Advanced Training Process"
+          pic={project3}
+          description="A complete Uipath Automation Process was implemented to login to ACME site, 
+          filter and capture data based on some criteria then generate Excel Reports. "
+          link="https://github.com/SarahMaghawry/RPA_Uipath"
+        />
+        <Widecard
+          title="Java Web Application"
+          pic={project4}
+          description="An app that allows new bank clients to fill and send
+          an Open Account Request Form remotely. Also the existing clients can perform financial 
+          transactions using this app. Developed using JavaEE (JSF), Tomcat web server and MySQL Database. "
+          link="https://github.com/SarahMaghawry/Banki-web-app"
+        />
+        <Widecard
+          title="BPM Process"
+          pic={project5}
+          description="A process was built using IBM BPM tool that allows clients 
+          to perform operations on their accounts after passing some data validations. "
+          link="https://github.com/SarahMaghawry"
         />
       </div>
     );
