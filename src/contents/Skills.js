@@ -5,12 +5,12 @@ class Skills extends Component {
     super(props);
     this.state = {
       myskills: [
-        "HTML - CSS - JavaScript",
-        "Nodejs",
-        "Reactjs",
+        "JavaEE - Spring",
+        "JavaScript - Reactjs",
+        "HTML - CSS",
         "MySQL",
         "MongoDB",
-        "REST API - SOAP",
+        "REST - SOAP",
         "OOP - MVC - UML",
       ],
     };

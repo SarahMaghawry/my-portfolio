@@ -14,7 +14,7 @@ class Projects extends Component {
         <Widecard
           title="Task Coach"
           pic={project1}
-          description="An app that lets users add their daily tasks, edit the logged task 
+          description="An app that lets users add their daily tasks, edit the logged tasks 
           and delete completed tasks. It's developed using MERN stack and 
           the power of mongoDB and CRUD operations to list, add, update and delete tasks. "
           link="https://github.com/SarahMaghawry/react-app"
@@ -28,19 +28,19 @@ class Projects extends Component {
           link="https://github.com/SarahMaghawry/my-portfolio"
         />
         <Widecard
-          title="Advanced Training Process"
-          pic={project3}
-          description="A complete Uipath Automation Process was implemented to login to ACME site, 
-          filter and capture data based on some criteria then generate Excel Reports. "
-          link="https://github.com/SarahMaghawry/RPA_Uipath"
-        />
-        <Widecard
-          title="Java Web Application"
+          title="Java Web Application (JSF)"
           pic={project4}
           description="An app that allows new bank clients to fill and send
           an Open Account Request Form remotely. Also the existing clients can perform financial 
           transactions using this app. Developed using JavaEE (JSF), Tomcat web server and MySQL Database. "
           link="https://github.com/SarahMaghawry/Banki-web-app"
+        />
+        <Widecard
+          title="Advanced Training Process"
+          pic={project3}
+          description="A complete Uipath Automation Process was implemented to login to ACME site, 
+          filter and capture data based on some criteria then generate Excel Reports. "
+          link="https://github.com/SarahMaghawry/RPA_Uipath"
         />
         <Widecard
           title="BPM Process"
